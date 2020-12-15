@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Aleks
-#### I'm a Senior Python Developer
+#### I'm a Full Stack Developer
 
-Right now, I work as a senior risk analyst at robo.finance, and I'm based in Moscow. I am developing microservices for anti-fraud and risk systems. I often use Python 3, PostgreSQL, Docker, Flask and other little things. I usually create services with REST API and other exciting technologies, time to time asyncio or multiprocessing come in handy.
+Right now, I work as a senior risk developer at robo.finance, and I'm based in Moscow. I'm developing microservices for anti-fraud and risk systems. I often use Python 3, PostgreSQL, Docker, Flask, Django and other little things. I usually create services with REST API and other exciting technologies, time to time asyncio or multiprocessing come in handy.
 
-Skills: PYTHON / VUE JS / DOCKER / JS / TAILWIND CSS / AWS / GCP / NGINX
+Skills: PYTHON / VUE JS / DOCKER / JS / TAILWIND CSS / AWS / GCP / NGINX / SQL
 
 - 🔭 I’m currently working on https://wish.surf 
 - 📫 How to reach me: me@alekskuznetsov.com 
