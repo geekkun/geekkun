@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Aleks
+#### I am a Senior Python Developer
+
+Skills: PYTHON / VUE JS / DOCKER / JS / TAILWIND CSS / AWS / GCP / NGINX
+
+- 🔭 I’m currently working on https://wish.surf 
+- 📫 How to reach me: me@alekskuznetsov.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/geekkun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alekskuznetsov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gk.kn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/6388578)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/alekskuznetsov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alekskuznetsov.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@alex_kuznetsov)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekkun)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=geekkun&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=geekkun)  
+
+
 
 <!--
 **geekkun/geekkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
