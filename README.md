@@ -5,7 +5,7 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
 
 Skills: PYTHON / VUE JS / DOCKER / JS / TAILWIND CSS / AWS / GCP / NGINX / SQL
 
-- 🔭 I’m currently working on https://wish.surf 
+- 🔭 I’m currently working on https://wish.surf and https://visa.alekskuznetsov.com
 - 📫 How to reach me: me@alekskuznetsov.com 
 
 
