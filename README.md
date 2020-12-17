@@ -27,6 +27,8 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
 <p float="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="40px">&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" width="40px">&nbsp;
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" width="40px">&nbsp;
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="40px">&nbsp;
 </p>
 
 
