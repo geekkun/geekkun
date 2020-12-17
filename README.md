@@ -6,17 +6,17 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
 
 <h3>I code with</h3>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40px"> <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" width="40px"> <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="40px"> <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px"><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" width="40px">
+src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" width="40px"><img 
+src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="40px"><img 
+src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px"><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" width="40px">
 
 <h3>I use</h3>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="40px">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" width="40px">&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" width="40px">&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" width="40px">&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" width="40px">&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" width="40px">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" width="40px">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" width="40px">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" width="40px">
 
 - 🔭 I’m currently working on https://wish.surf and https://visa.alekskuznetsov.com
 - 📫 How to reach me: me@alekskuznetsov.com 
