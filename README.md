@@ -23,6 +23,12 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
     <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" width="40px">&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" width="40px">&nbsp;
 </p>
+<h3>I experiment with</h3>
+<p float="left">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="40px">&nbsp;
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" width="40px">&nbsp;
+</p>
+
 
 <h3>I’m currently working on</h3>
 🔭 https://wish.surf
