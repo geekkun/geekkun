@@ -6,14 +6,17 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
 
 <h3>I code with</h3>
 <p float="left">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40px"> <img 
-    src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" width="40px"> <img 
-    src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="40px"> <img 
-    src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px"><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" width="40px">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40px">&nbsp;
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" width="40px">&nbsp;
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="40px">&nbsp;
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" width="40px">&nbsp;
 </p>
 <h3>I use</h3>
 <p float="left">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="40px">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="40px">&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40px">&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" width="40px">&nbsp;
@@ -22,11 +25,12 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
 </p>
 
 <h3>I’m currently working on</h3>
-- 🔭 https://wish.surf
-- 🔭 https://visa.alekskuznetsov.com
+🔭 https://wish.surf
+<br />
+🔭 https://visa.alekskuznetsov.com
 <br />
 <h3>How to reach me</h3>
-- 📫 <a href="mailto:me@alekskuznetsov.com">me@alekskuznetsov.com</a> 
+📫 <a href="mailto:me@alekskuznetsov.com">me@alekskuznetsov.com</a> 
 
 <br />
 <br />
