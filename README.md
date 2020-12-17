@@ -15,7 +15,7 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
 <p float="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="40px">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" width="40px">&nbsp;
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40px">&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" width="40px">&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" width="40px">&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" width="40px">&nbsp;
