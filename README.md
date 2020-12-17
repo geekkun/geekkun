@@ -21,6 +21,7 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" width="40px">&nbsp;
 </p>
 - 🔭 I’m currently working on https://wish.surf and https://visa.alekskuznetsov.com
+<br />
 - 📫 How to reach me: me@alekskuznetsov.com 
 
 
