@@ -1,12 +1,22 @@
-### Hi there 👋, my name is Aleks
-
 <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/header.png">
 
 #### I'm a Full Stack Developer
 
 Right now, I work as a senior risk developer at robo.finance, and I'm based in Moscow. I'm developing microservices for anti-fraud and risk systems. I often use Python 3, PostgreSQL, Docker, Flask, Django and other little things. I usually create services with REST API and other exciting technologies, time to time asyncio or multiprocessing come in handy.
 
-Skills: PYTHON / VUE JS / DOCKER / JS / TAILWIND CSS / AWS / GCP / NGINX / SQL
+<h3>I code with</h3>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<h3>I use</h3>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/aws/aws-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 - 🔭 I’m currently working on https://wish.surf and https://visa.alekskuznetsov.com
 - 📫 How to reach me: me@alekskuznetsov.com 
@@ -19,6 +29,9 @@ Skills: PYTHON / VUE JS / DOCKER / JS / TAILWIND CSS / AWS / GCP / NGINX / SQL
 ![GitHub stats](https://github-readme.vercel.alekskuznetsov.com/api?username=geekkun&show_icons=true&count_private=true&theme=Gradient)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=geekkun)  
+
+
+Skills: PYTHON / VUE JS / DOCKER / JS / TAILWIND CSS / AWS / GCP / NGINX / SQL
 
 <!--
 [![willianrod's wakatime stats](https://github-readme.vercel.alekskuznetsov.com/api/wakatime?username=alekskuznetsov&layout=compact&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
