@@ -55,7 +55,7 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=geekkun)  
 
 
-Skills: PYTHON / VUE JS / DOCKER / JS / TAILWIND CSS / AWS / GCP / NGINX / SQL
+Skills: PYTHON / VUE JS / DOCKER / JS / TAILWIND CSS / AWS / GCP / NGINX / SQL / GraphQL
 
 <!--
 [![willianrod's wakatime stats](https://github-readme.vercel.alekskuznetsov.com/api/wakatime?username=alekskuznetsov&layout=compact&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
