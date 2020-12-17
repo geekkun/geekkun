@@ -17,7 +17,7 @@ Skills: PYTHON / VUE JS / DOCKER / JS / TAILWIND CSS / AWS / GCP / NGINX / SQL
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=geekkun)  
 
-
+[![willianrod's wakatime stats](https://github-readme.vercel.alekskuznetsov.com/api/wakatime?username=geekkun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **geekkun/geekkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
