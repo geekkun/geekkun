@@ -20,10 +20,15 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
     <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" width="40px">&nbsp;
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" width="40px">&nbsp;
 </p>
-- 🔭 I’m currently working on https://wish.surf and https://visa.alekskuznetsov.com
-<br />
-- 📫 How to reach me: <a href="mailto:me@alekskuznetsov.com">me@alekskuznetsov.com</a> 
 
+<h3>I’m currently working on</h3>
+- 🔭 https://wish.surf
+- 🔭 https://visa.alekskuznetsov.com
+<br />
+<h3>How to reach me</h3>
+- 📫 <a href="mailto:me@alekskuznetsov.com">me@alekskuznetsov.com</a> 
+
+<br />
 <br />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alekskuznetsov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gk.kn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/6388578)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/alekskuznetsov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@alex_kuznetsov)  
