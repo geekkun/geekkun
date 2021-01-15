@@ -1,0 +1,61 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="14">
+            <item index="0" class="java.lang.String" itemvalue="loading" />
+            <item index="1" class="java.lang.String" itemvalue="x-data" />
+            <item index="2" class="java.lang.String" itemvalue="@click" />
+            <item index="3" class="java.lang.String" itemvalue="aria-hidden" />
+            <item index="4" class="java.lang.String" itemvalue="x-show" />
+            <item index="5" class="java.lang.String" itemvalue="@click.away" />
+            <item index="6" class="java.lang.String" itemvalue="x-transition:enter" />
+            <item index="7" class="java.lang.String" itemvalue="x-transition:enter-start" />
+            <item index="8" class="java.lang.String" itemvalue="x-transition:enter-end" />
+            <item index="9" class="java.lang.String" itemvalue="x-transition:leave" />
+            <item index="10" class="java.lang.String" itemvalue="x-transition:leave-start" />
+            <item index="11" class="java.lang.String" itemvalue="x-transition:leave-end" />
+            <item index="12" class="java.lang.String" itemvalue="@mouseover" />
+            <item index="13" class="java.lang.String" itemvalue="@mouseout" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMethodMayBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="22">
+            <item index="0" class="java.lang.String" itemvalue="six" />
+            <item index="1" class="java.lang.String" itemvalue="aioodbc" />
+            <item index="2" class="java.lang.String" itemvalue="async-timeout" />
+            <item index="3" class="java.lang.String" itemvalue="asyncpg" />
+            <item index="4" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="5" class="java.lang.String" itemvalue="h11" />
+            <item index="6" class="java.lang.String" itemvalue="marshmallow" />
+            <item index="7" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="8" class="java.lang.String" itemvalue="numpy" />
+            <item index="9" class="java.lang.String" itemvalue="click" />
+            <item index="10" class="java.lang.String" itemvalue="httptools" />
+            <item index="11" class="java.lang.String" itemvalue="pandas" />
+            <item index="12" class="java.lang.String" itemvalue="starlette" />
+            <item index="13" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="14" class="java.lang.String" itemvalue="multidict" />
+            <item index="15" class="java.lang.String" itemvalue="yarl" />
+            <item index="16" class="java.lang.String" itemvalue="pytz" />
+            <item index="17" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="18" class="java.lang.String" itemvalue="uvloop" />
+            <item index="19" class="java.lang.String" itemvalue="websockets" />
+            <item index="20" class="java.lang.String" itemvalue="idna" />
+            <item index="21" class="java.lang.String" itemvalue="ujson" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
