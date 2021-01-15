@@ -3,33 +3,32 @@
 #### I'm a Full Stack Developer
 
 Right now, I work as a senior risk developer at robo.finance, and I'm based in Moscow. I'm developing microservices for anti-fraud and risk systems. I often use Python 3, PostgreSQL, Docker, Flask, Django and other little things. I usually create services with REST API and other exciting technologies, time to time asyncio or multiprocessing come in handy.
-
 <h3>I code with</h3>
 <p float="left">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/python/python-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/django/django-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/vuejs/vuejs-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/html5/html5-plain.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/css3/css3-plain.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/javascript/javascript-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/nodejs/nodejs-plain.svg" width="40px">&nbsp;
 </p>
 <h3>I use</h3>
 <p float="left">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/pycharm/pycharm-original.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/docker/docker-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/git/git-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/vim/vim-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/pycharm/pycharm-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/postgresql/postgresql-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/nginx/nginx-original.svg" width="40px">&nbsp;
 </p>
 <h3>I experiment with</h3>
 <p float="left">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" width="40px">&nbsp;
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/flutter/flutter-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/swift/swift-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/c/c-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/go/go-original.svg" width="40px">&nbsp;
 </p>
 
 
