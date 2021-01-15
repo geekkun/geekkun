@@ -44,7 +44,7 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
 <br />
 <br />
 
-[<img src='https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alekskuznetsov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gk.kn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/6388578)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/alekskuznetsov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@alex_kuznetsov)  
+[<img src='https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alekskuznetsov/)  [<img src='https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gk.kn/)  [<img src='https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/6388578)  [<img src='https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/alekskuznetsov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@alex_kuznetsov)  
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
