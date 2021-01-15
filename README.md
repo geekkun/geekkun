@@ -29,6 +29,7 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
     <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/swift/swift-original.svg" width="40px">&nbsp;
     <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/c/c-original.svg" width="40px">&nbsp;
     <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/go/go-original.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/react/react-original.svg" width="40px">&nbsp;
 </p>
 
 
