@@ -38,6 +38,8 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
 <br />
 🗺️ https://visa.alekskuznetsov.com
 <br />
+⚡ A few more amazing projects!
+<br />
 <h3>How to reach me</h3>
 📫 <a href="mailto:me@alekskuznetsov.com">me@alekskuznetsov.com</a> 
 
