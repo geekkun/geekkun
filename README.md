@@ -32,6 +32,16 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
     <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/react/react-original.svg" width="40px">&nbsp;
 </p>
 
+<h3>I can speak</h3>
+<p float="left">
+    <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/gb.svg" width="40px">&nbsp;
+    <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/ru.svg" width="40px">&nbsp;
+</p>
+
+<h3>I study</h3>
+<p float="left">
+    <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/jp.svg" width="40px">&nbsp;
+</p>
 
 <h3>I’m currently working on</h3>
 🌊 https://wish.surf
