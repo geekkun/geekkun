@@ -65,9 +65,9 @@ Right now, I work as a senior risk developer at robo.finance, and I'm based in M
 [![Top Langs](https://github-readme.vercel.alekskuznetsov.com/api/top-langs/?username=geekkun&show_icons=true&count_private=true&langs_count=10&layout=compact&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme.vercel.alekskuznetsov.com/api?username=geekkun&show_icons=true&count_private=true&theme=Gradient)  
-<!--
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=geekkun)  
--->
+
 
 Skills: PYTHON | VUE JS | DOCKER | CSS | AWS | GCP | NGINX | SQL | GraphQL | REST API | FIREBASE
 
