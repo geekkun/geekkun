@@ -49,7 +49,7 @@ I work as a senior risk developer at robo.finance, and I'm based in Moscow. I'm 
 <h3>I’m currently working on</h3>
 🌊 https://wish.surf
 <br />
-🗺️ https://visa.alekskuznetsov.com
+🗺️ https://visas.digital
 <br />
 ⚡ A few more amazing projects!
 <br />
