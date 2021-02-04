@@ -70,7 +70,7 @@ I work as a senior risk developer at robo.finance, and I'm based in Moscow. I'm 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=geekkun)  
 
 
-Skills: PYTHON | VUE JS | DOCKER | CSS | AWS | GCP | NGINX | SQL | GraphQL | REST API | FIREBASE
+Skills: PYTHON | VUE JS | DOCKER | CSS | AWS | GCP | NGINX | SQL | GraphQL | REST API | FIREBASE | POSTGRES
 
 <!--
 [![willianrod's wakatime stats](https://github-readme.vercel.alekskuznetsov.com/api/wakatime?username=alekskuznetsov&layout=compact&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
