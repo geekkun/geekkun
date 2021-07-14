@@ -20,7 +20,6 @@ I work as a senior risk developer at robo.finance, and I'm based in Moscow. I'm 
     <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/git/git-original.svg" width="40px">&nbsp;
     <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40px">&nbsp;
     <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/vim/vim-original.svg" width="40px">&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" width="40px">&nbsp;
     <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/postgresql/postgresql-original.svg" width="40px">&nbsp;
     <img src="https://raw.githubusercontent.com/geekkun/geekkun/main/icons/nginx/nginx-original.svg" width="40px">&nbsp;
     <img src="https://raw.githubusercontent.com/geekkun/firebase/master/firebase-icon-set/firebase-logo/Firebase-logo-flat.svg" width="40px">&nbsp;
