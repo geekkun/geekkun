@@ -46,9 +46,11 @@ I often use Python 3, PostgreSQL, Docker, Flask, Django and other little things.
 </p>
 
 <h3>I’m currently working on</h3>
-🌊 https://wish.surf
+🏦 https://cashbacker.ru
 <br />
-🗺️ https://visas.digital
+<s>🌊 https://wish.surf</s>
+<br />
+<s>🗺️ https://visas.digital</s>
 <br />
 ⚡ A few more amazing projects!
 <br />
@@ -70,21 +72,3 @@ I often use Python 3, PostgreSQL, Docker, Flask, Django and other little things.
 
 
 Skills: PYTHON | VUE JS | DOCKER | CSS | AWS | GCP | NGINX | SQL | GraphQL | REST API | FIREBASE | POSTGRES
-
-<!--
-[![willianrod's wakatime stats](https://github-readme.vercel.alekskuznetsov.com/api/wakatime?username=alekskuznetsov&layout=compact&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
-
-
-**geekkun/geekkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
